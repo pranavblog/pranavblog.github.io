@@ -344,7 +344,7 @@ only screen and (max-width: 600px) {
 .post-content {
     background: #222222!important;
     border-radius: 0;
-    color: #444;
+    color: rgba(197, 197, 197, 0.51);
 }
 .post-title {
     margin: 40px 0px 8px 0px;
