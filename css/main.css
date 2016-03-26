@@ -360,7 +360,8 @@ background-position: center;
 }
 
 h1.post-title {
-	font-weight:800
+    font-weight:800;
+    rgba(255, 255, 255, 0.75);
 }
 
 #footer {
